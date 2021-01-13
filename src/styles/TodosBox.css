@@ -1,0 +1,15 @@
+.todos-box {
+    background-color: #191d21;
+    color: #a59c9c;
+    height: 190px;
+    font-size: 2rem;
+
+    border-radius: 5%;
+    border:3px solid red;
+
+
+}
+
+/* .todos-box:hover {
+    opacity: 0.5;
+} */
